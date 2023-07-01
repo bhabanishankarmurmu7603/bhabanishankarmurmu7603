@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bhabanishankarmurmu7603
+- 👋 Hi, I’m @Bhabai Shankar Murmu
 - 👀 I’m interested in UI/UX Designing
 - 🌱 I’m currently learning Frontend Designing and development
 
